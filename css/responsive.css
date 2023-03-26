@@ -1,94 +1,165 @@
 @media all and (max-width: 1600px) {
-    .player-img {
-        width: 300px;
-        height: 300px; 
-    }
+  .player-img {
+    width: 300px;
+    height: 300px;
+  }
 
-    .player-name {  
-        font-size: 40px;
-        margin-bottom: 24px;
-    }
+  .player-name {
+    font-size: 40px;
+    margin-bottom: 24px;
+  }
 
-    .category, .address { 
-        font-size: 26px;
-        margin-bottom: 16px;
-    }
+  .category,
+  .address {
+    font-size: 26px;
+    margin-bottom: 16px;
+  }
 
-    .auc-btn-wrap {
-        max-width: 1100px;  
-        left: calc(50% - 550px);
-    }
+  .auc-btn-wrap {
+    max-width: 1100px;
+    left: calc(50% - 550px);
+  }
 
-    .hp-logo {
-        width: 100px;
-        height: 100px; 
-    }
+  .hp-logo {
+    width: 100px;
+    height: 100px;
+  }
 
-    .hp-name { 
-        font-size: 40px;
-    }
+  .hp-name {
+    font-size: 40px;
+  }
 
-    .auc-swiper .swiper-pagination.counter { 
-        font-size: 44px; 
-    }
+  .auc-swiper .swiper-pagination.counter {
+    font-size: 44px;
+  }
+
+  .form-data {
+    font-size: 24px;
+    height: 70px;
+    margin-top: 14px;
+  }
+
+  .form-field label {
+    font-size: 24px;
+  }
+
+  .form-wrap {
+    max-width: 750px;
+  }
+
+  .amt-num {
+    font-size: 30px;
+  }
+
+  .team-name {
+    font-size: 30px;
+    margin-bottom: 24px;
+  }
+
+  .team-player-wrap li {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
 }
-@media all and (max-width: 1440px) {}
+@media all and (max-width: 1440px) {
+  .amt-wrap {
+    max-width: 1000px;
+    border-radius: 14px;
+    padding: 16px;
+  }
+
+  .player-info-box {
+    max-width: 1000px;
+    border-radius: 14px;
+    padding: 16px;
+  }
+
+  .team-swiper-wrap {
+    max-width: 510px;
+  }
+
+  .amt-num {
+    font-size: 24px;
+  }
+
+  .team-name {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+
+  .player-info .player-name {
+    font-size: 26px;
+  }
+
+  .category,
+  .address {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+}
 @media all and (max-width: 1366px) {
+  .btn {
+    font-size: 14px;
+    margin-bottom: 24px;
+  }
+  .player-img {
+    width: 250px;
+    height: 250px;
+  }
 
-    .player-img {
-        width: 250px;
-        height: 250px;
-    }
+  .auc-box {
+    max-width: 700px;
+  }
 
-    .auc-box {
-        max-width: 700px; 
-    }
+  .auction-swiper-wrap {
+    max-width: 750px;
+  }
 
-    .auction-swiper-wrap {
-        max-width: 750px; 
-    }
+  .auc-btn-wrap {
+    max-width: 950px;
+    left: calc(50% - 475px);
+  }
 
-    .auc-btn-wrap {
-        max-width: 950px;
-        left: calc(50% - 475px);
-    }
+  .player-name {
+    font-size: 32px;
+    margin-bottom: 16px;
+  }
 
-    .player-name {
-        font-size: 32px;
-        margin-bottom: 16px;
-    }
+  .category,
+  .address {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
 
-    .category, .address {
-        font-size: 20px;
-        margin-bottom: 12px;
-    }
+  .hp-logo-wrap {
+    max-width: 750px;
+  }
 
-    .hp-logo-wrap {
-        max-width: 750px; 
-    }
+  .hp-logo {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #202135;
+  }
 
-    .hp-logo {
-        width: 80px;
-        height: 80px;
-        border: 1px solid #202135;
-    }
+  .hp-name {
+    font-size: 36px;
+  }
 
-    .hp-name {
-        font-size: 36px;
-    }
-    
-    .auc-prev, .auc-next { 
-        border: 1px solid #202135;
-        width: 36px;
-        height: 36px; 
-    }
+  .auc-prev,
+  .auc-next {
+    border: 1px solid #202135;
+    width: 36px;
+    height: 36px;
+  }
 
-    .auc-prev i, .auc-next i {
-        font-size: 14px; 
-    }
+  .auc-prev i,
+  .auc-next i {
+    font-size: 14px;
+  }
 }
-@media all and (max-width: 1280px) {}
-@media all and (max-width: 1200px) {}
-@media all and (max-width: 1024px) {}
-
-  
+@media all and (max-width: 1280px) {
+}
+@media all and (max-width: 1200px) {
+}
+@media all and (max-width: 1024px) {
+}
